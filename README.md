@@ -1,6 +1,4 @@
-Here is a suggested update for your README.md file:
 
-```markdown
 # Fine-Tuning Gemma2 with LoRA for Hindi
 
 This repository contains code and documentation for fine-tuning the Gemma2 model using LoRA (Low-Rank Adaptation) for the Hindi language.
